@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Certified Ethical Hacker (CEH)
-- 📫 How to reach me: FB,Gmail,Instagram....
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Learn
+About Me:
+My name is MD Ashaduzzaman Asif. I am currently pursuing my Bachelor of Science (B.Sc.) in Computer Science at Daffodil International University, and my degree is almost complete. Alongside my academic studies, I am actively developing my skills in cybersecurity and currently learning Certified Ethical Hacker (CEH). I am also connected with an EC-Council-supported course through my university’s cyber club, where I am gaining practical experience in cybersecurity. I completed my JSC from Payob Hazi Abdul Gani High School, achieving a Golden A+ and securing 10th position in Muradnagar Thana. I continued my SSC from the same school and obtained an A+. Later, I completed my HSC from BAF Shaheen College, where I achieved a Golden A+. In addition to my academic background, I was an active member of BNCC (Bangladesh National Cadet Corps). I had the opportunity to participate in the National Parade on 16 December 2019, which was a proud achievement for me.
 
+I am passionate about cybersecurity and continuously working to improve my knowledge and practical skills in this field.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.A.Asif72) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.a.asif02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-a-asif-103176350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asif22205101748@diu.edu.bd) 
