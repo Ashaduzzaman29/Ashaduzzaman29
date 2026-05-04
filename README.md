@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Certified Ethical Hacker (CEH)
-- 📫 How to reach me: FB,Gmail,Instsa
+- 📫 How to reach me: FB,Gmail,Instagram....
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Learn
 
